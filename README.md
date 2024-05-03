@@ -9,7 +9,7 @@
   2. Servidor 1 (apache)
   3. Servidor 2 (dns)
   4. Servidor de backup (playbook deve fazer setup do servidor 1/2 em caso de queda)
-- Scripts de disponibilidade e monitoramento de recursos
+- ~~Scripts de disponibilidade e monitoramento de recursos~~
 - Playbooks de instalação de tudo que é essencial nesses sistemas, separados por cada máquina específica.
 
 ## Terminado isso:
